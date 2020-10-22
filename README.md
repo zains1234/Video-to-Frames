@@ -18,7 +18,7 @@ Options :
 
 1) Split video to frames files 
 ```  
-python video2frames.py ./videos/my_video.mp4 ./tmp
+python video2frames.py ./videos/simrs.mp4 ./tmp
 ```
 
 2) Split video to frames files (max 250 files) and rotate 90 degrees clock-wise 
