@@ -1,0 +1,8 @@
+#
+.idea
+*.pyc
+*~
+# project specific
+Data
+/*.avi
+/jpgs
